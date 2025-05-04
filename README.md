@@ -1,4 +1,9 @@
 # multilingual-nlp-homeworks
+This readme is focused on the LM-based approach.
+The instructions for the Non-LM-based approach can be found in the corresponding subfolder.
+
+## Training Logs
+The training logs can be found on [WandB](https://wandb.ai/kubach/mnlp-h1-lm?nw=66ubndiosr).
 
 ## Install
 
